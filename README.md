@@ -1,2 +1,2 @@
-# typescript-boilerplate
-A starter project to Typescript
+# express project
+A simple server with express
